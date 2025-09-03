@@ -56,21 +56,21 @@ app.post("/send-email", async (req, res) => {
             <img src="https://res.cloudinary.com/srinivascloud/image/upload/v1756803072/WhatsApp_Image_2025-09-02_at_14.17.48_ed36efa3_jeubsp.jpg" alt="Snowflake Logo" style="height:60px; margin-bottom:20px;" />
            
             <!-- Title -->
-            <h2 style="color:#005bac; margin-bottom:10px;">Thank You for Your Enrollment 🎉</h2>
+            <h2 style="color:#005bac; margin-bottom:10px;">Thank You for Your Booking 🎉</h2>
             <p style="font-size:16px; margin-bottom:25px;">
               Hello <strong>${name} </strong>,
             </p>
     
             <!-- Message -->
             <p style="font-size:15px; line-height:1.6; margin-bottom:30px;">
-              We’re excited to have you join our <span style="color:#005bac; font-weight:bold;">Snowflake Program</span>.  
+              We’re excited to have you join our <span style="color:#005bac; font-weight:bold;">Snowflake Training</span>.  
               Our team will connect with you shortly with the next steps.
             </p>
     
             <!-- Footer -->
             <p style="font-size:14px; color:#666; margin-top:20px;">
               Best Regards,<br/>
-              <strong>Snowflake Team</strong>
+              <strong>SkillVedika Team</strong>
             </p>
           </div>
         </div>
